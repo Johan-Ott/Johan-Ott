@@ -1,45 +1,31 @@
-# Nice seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+# Johan Ottsson
 
-I ❤️ Game Development
+Game & web developer with shipped titles on some of the world's largest IPs. I build tools, games, and interactive experiences — from engine-level C++ to polished React frontends.
 
-## Little info about me
+Currently exploring opportunities in game development and creative tech.
 
-- 🎓  I studied Technical Artist at university.
-- 👯 I always strive to learn and share knowledge with other people, in my opinion you will never stop learning.
-- 💬 Ask me about UI, VFX, C++, C#, Unity and Unreal or anything down below listed in my badges.
-- 📁 My engine experiences are, Unity, Unreal, 3 in house engines of companies.
-- 💻 On my free time I spend my time playing a bunch of different games but also working on side projects.
-- 📘 My favorite languages are C++ & C#.
+## What I do
 
-[![Gmail Badge](https://img.shields.io/badge/-jottossonta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jottossonta@gmail.com)](mailto:jottossonta@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-johancaptnjohn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johancaptnjohn/)](https://www.linkedin.com/in/johancaptnjohn/)
+- Ship games and developer tools across Unity, Unreal, and custom engines
+- Build modern web applications with TypeScript, React, and Next.js
+- Create commercial plugins and tools for game engines and creative platforms
+- Lead teams — interviews, technical direction, and product ownership
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
-![C#](https://img.shields.io/badge/-csharp-00599C?style=flat-square&logo=c-sharp)
-![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
-![Unreal Engine](https://img.shields.io/badge/-UnrealEngine-black?style=flat-square&logo=unrealengine)
-![Typescript](https://img.shields.io/badge/-Typescript-00599C?style=flat-square&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![WASM](https://img.shields.io/badge/-WASM-00599C?style=flat-square&logo=wasm)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![WPF](https://img.shields.io/badge/-WPF-5C2D91?style=flat-square&logo=WPF)
-![Google Test](https://img.shields.io/badge/googletest-black?style=flat-square&logo=google-test)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Jira](https://img.shields.io/badge/-Jira-darkblue?style=flat-square&logo=Jira)
-![Adobe](https://img.shields.io/badge/-Adobe-black?style=flat-square&logo=Adobe)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
-![Affinity Designer](https://img.shields.io/badge/-AffinityDesigner-black?style=flat-square&logo=AffinityDesigner)
-![Maya](https://img.shields.io/badge/-Maya-darkblue?style=flat-square&logo=Maya)
-![Visual Studio Code](https://img.shields.io/badge/-visualstudiocode-darkblue?style=flat-square&logo=visualstudiocode)
-![Visual Studio](https://img.shields.io/badge/-visualstudio-darkblue?style=flat-square&logo=visualstudio)
-![clion](https://img.shields.io/badge/-clion-black?style=flat-square&logo=clion)
-![rider](https://img.shields.io/badge/-rider-black?style=flat-square&logo=rider)
-<br>
-<br>
+## Current projects
 
+- [Portfolio](https://jottossonportfolio.vercel.app) — Next.js, React 19, Tailwind v4
+- [Focus Job](https://johan-ott.github.io/focus-job) — Job description analyzer
+- [Lone Lodge Studios](https://github.com/Johan-Ott) — Developer tools and plugins for game engines
 
+## Tech
+
+**Code** · C++ · C# · TypeScript · JavaScript · Python · WASM · Lua
+**Game** · Unity · Unreal Engine · Custom Engines · Perforce · FMOD
+**Web** · React · Next.js · Node.js · Tailwind · HTML · CSS
+**Tools** · Git · Figma · Jira · Scrum · Adobe · Maya · VS Code · Rider
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/-Johan_Ottsson-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johancaptnjohn/)
+[![Email](https://img.shields.io/badge/-johan.lonelodge@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:johan.lonelodge@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-jottossonportfolio-000?style=flat&logo=vercel&logoColor=white)](https://jottossonportfolio.vercel.app)
