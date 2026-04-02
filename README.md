@@ -26,6 +26,6 @@ Currently exploring opportunities in game development and creative tech.
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/-Johan_Ottsson-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johancaptnjohn/)
+[![LinkedIn](https://img.shields.io/badge/-Johan_Ottsson-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/jottossondev)
 [![Email](https://img.shields.io/badge/-johan.lonelodge@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:johan.lonelodge@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-jottossonportfolio-000?style=flat&logo=vercel&logoColor=white)](https://jottossonportfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-jottossonportfolio-000?style=flat&logo=vercel&logoColor=white)]([https://jottossonportfolio.vercel.app](https://johan-ott.github.io/jottossonportfolio/))
